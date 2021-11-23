@@ -1,4 +1,4 @@
-# Welcome to Bike Valley (live site link: https://bike-valley.web.app/ , Client site git hub link: https://github.com/programming-hero-web-course-4/niche-website-client-side-TitasKanti
+# Welcome to Bike Valley (live site link: https://bike-valley.web.app/ , Client site git hub link: https://github.com/TitasKanti/bike-valley-client
 
 -- This is a niche product (motorbike) sales related website.
 -- Frontend tools: Javascript, react,  Material UI and css.
